@@ -1,3 +1,3 @@
-module ForemanPluginTemplate
+module ForemanStatus
   VERSION = '0.0.1'.freeze
 end

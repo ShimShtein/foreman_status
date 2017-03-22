@@ -1,4 +1,4 @@
-module ForemanPluginTemplate
+module ForemanStatus
   module HostExtensions
     extend ActiveSupport::Concern
 

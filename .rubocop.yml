@@ -1,3 +1,6 @@
+inherit_from:
+  - https://raw.githubusercontent.com/theforeman/foreman/develop/.rubocop.yml
+
 Rails:
   Enabled: true
 
